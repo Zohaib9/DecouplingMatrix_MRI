@@ -1,0 +1,21 @@
+Step 1: Download, extract 'DecouplingMatrix_MRI.zip' 
+
+Step 2: run demo.m in `DecouplingMatrix_MRI' to explore various features
+
+Step 3: A computed decoupling matrix is saved in a spice netlist '.sp' 
+	with a user provided name. This file can be directly
+	imported in commercial circuit simulators.
+
+Step 4: Open the spice netlist '.sp' in any word processing software to 
+	inspect the values of capacitors and inductors
+_______________________________________________________________
+
+Feedback/Questions - zohaib@alumn.mit.edu
+
+
+Copyright (C) 2014, Zohaib Mahmood (zohaib@alumn.mit.edu)
+Massachusetts Institute of Technology
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY.
+
